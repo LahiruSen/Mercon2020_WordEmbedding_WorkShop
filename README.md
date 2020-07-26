@@ -24,8 +24,8 @@ eg: cd /content/drive/My Drive/Mercon_WordEmbedding_Workshop
 8. Now open "Operations_on_word_vectors_en_final.ipynb" file using colab. (This should be available in cloned folder.), and run fisrt cell in this notebook to mount google drive again. 
 
 9. Change "folder_path" variable to shared folder shortcut created in the step 7. 
-eg: 
 ```
+eg: 
 folder_path = '/content/drive/My Drive/Mercon_WordEmbedding_Workshop/WordEmbed workshop'
 ```
 10. Repeat step 8 and 9 to setup "sentiment_analysis_v4.ipynb" file also. 
