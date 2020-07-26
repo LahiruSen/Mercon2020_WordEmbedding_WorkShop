@@ -9,22 +9,18 @@ Steps to setup workspace on Google Colab
 3. Create a new colab notebook in above folder. (by clicking "new" button)
 4. Mount google drive to colab run time. (by clicking on "mount button" in left navigation bar.)
 5. Navigate to the folder created above. 
-
 ```
 cd <folder_path>
 eg: cd /content/drive/My Drive/Mercon_WordEmbedding_Workshop
-
 ```
 6. Clone required repo to your google drive by running below command.
-
 ```
 !git clone https://github.com/LahiruSen/Mercon2020_WordEmbedding_WorkShop.git
 ```
-
 7. Add required files to your google drive. 
 
-Navigate to Shared folder and click on "Add shortcut to drive", place this inside above created folder.  
-https://drive.google.com/drive/folders/1JqGCyodH4twjP0ET6mt3i0MkUpSth9Wo?usp=sharing
+  Navigate to Shared folder and click on "Add shortcut to drive", place this inside above created folder.  
+  https://drive.google.com/drive/folders/1JqGCyodH4twjP0ET6mt3i0MkUpSth9Wo?usp=sharing
 
 8. Now open "Operations_on_word_vectors_en_final.ipynb" file using colab. (This should be available in cloned folder.), and run fisrt cell in this notebook to mount google drive again. 
 
