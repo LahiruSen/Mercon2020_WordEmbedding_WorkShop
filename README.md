@@ -4,6 +4,8 @@ A HANDS-ON WORKSHOP IN WORD EMBEDDING: From Word2Vec to StarSpace
 
 Steps to setup workspace on Google Colab
 
+## clone notebooks from GitHub.
+
 1. Open google drive(https://drive.google.com/) tab on your browser. 
 2. Create a folder named "Mercon_WordEmbedding_Workshop" on a desired place on your google drive. 
 3. Create a new colab notebook in above folder. (by clicking "new" button
@@ -18,6 +20,8 @@ eg: cd /content/drive/My Drive/Mercon_WordEmbedding_Workshop
 ```
 !git clone https://github.com/LahiruSen/Mercon2020_WordEmbedding_WorkShop.git
 ```
+## Setup cloned notebooks
+
 7. Add required files to your google drive.(Navigate to Shared folder and click on "Add shortcut to drive", place this inside above created folder.)
   ```
   https://drive.google.com/drive/folders/1JqGCyodH4twjP0ET6mt3i0MkUpSth9Wo?usp=sharing
